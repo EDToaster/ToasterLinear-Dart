@@ -1,4 +1,4 @@
-import 'package:ToasterLinear_Dart/ToasterLinear.dart';
+import 'package:toaster_linear/toaster_linear.dart';
 import 'package:test/test.dart';
 
 void main() {

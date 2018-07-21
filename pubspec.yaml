@@ -1,14 +1,13 @@
-name: ToasterLinear_Dart
-description: A starting point for Dart libraries or applications.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: EDToaster <email@example.com>
+name: toaster_linear
+description: A rudimentary Linear Algebra Library.
+version: 1.0.0
+homepage: https://edtoaster.github.io
+author: EDToaster 
 
 environment:
   sdk: '>=2.0.0-dev.68.0 <3.0.0'
 
 dependencies:
-  quiver: any
 
 dev_dependencies:
   test: ^1.0.0

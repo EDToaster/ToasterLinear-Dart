@@ -4,4 +4,4 @@
 /// dart.
 library ToasterLinear;
 
-export 'src/ToasterLinear_base.dart';
+export 'src/toaster_linear_base.dart';
