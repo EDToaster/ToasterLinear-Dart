@@ -1,8 +1,8 @@
 name: toaster_linear
 description: A rudimentary Linear Algebra Library.
-version: 1.0.0
+version: 1.0.2
 homepage: https://edtoaster.github.io
-author: EDToaster 
+author: EDToaster
 
 environment:
   sdk: '>=2.0.0-dev.68.0 <3.0.0'

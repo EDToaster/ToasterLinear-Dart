@@ -199,6 +199,9 @@ class Matrix {
     }
     return toRet;
   }
+
+  @override
+  String toString() => _values.toString();
 }
 
 typedef double MapFunction(double x);
