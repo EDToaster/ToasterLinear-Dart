@@ -1,22 +1,9 @@
-# ToasterLinear_Dart
+# Toaster Linear Algebra Library
 
-A library for Dart developers.
+Implements some of the most useful linear algebra functions, provides a way to transform coordinates in n-space down to m-space. 
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
 
-## Usage
-
-A simple usage example:
-
-    import 'package:ToasterLinear_Dart/ToasterLinear_Dart.dart';
-
-    main() {
-      var awesome = new Awesome();
-    }
-
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
+# Road map
+* Integrate generics support for spaces and subspaces
+* Implement support for custom scalar multiplication, zero vector, and addition.
+* Implement simple definition of subspace (generics support)
